@@ -1,2 +1,2 @@
-# Meu-Python
-Python
+# Meu-Python 🐍
+## Alguns códigos que eu criei utilizando a linguagem Python
